@@ -36,7 +36,7 @@ This course is hosted on Github, which will be the primary medium for all commun
 * Most course materials are at (https://cisc3410.github.io/docs/syllabus.html)
 * Any questions regarding the homework or the course should be posted as an __issue__ on the relevant repository. Email inquiries will not be answered.
 * Individual communications that will not be relevant to the rest of the class should be sent to proflevitan at gmail. Emails to other addresses will not necessarily be seen or answered.
-* IMPORTANT: to ensure that you are notified of any course announcements, (watch)[link] the (@cisc3410/docs)[https://github.com/cisc3410/docs] repository. Announcements will be posted as issues or pull requests there.
+* IMPORTANT: to ensure that you are notified of any course announcements, [watch](link) the [@cisc3410/docs](https://github.com/cisc3410/docs) repository. Announcements will be posted as issues or pull requests there.
 
 ## Plagiarism
 
